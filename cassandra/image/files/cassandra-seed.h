@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* Created by "go tool cgo" - DO NOT EDIT. */
 
 /* package command-line-arguments */
